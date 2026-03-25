@@ -22,3 +22,13 @@ Utilizei essa base de dados por ter alguns transformações e limpezas que podem
 
 > Jupyter
 
+
+## Scripts
+
+### Script de Extração - [Acesso aqui](https://github.com/dhiegoemmanuel2006/data-engineer-project/blob/master/src/extract_and_load.py#L14-L29)
+
+### Script de Load - [Acesso aqui](https://github.com/dhiegoemmanuel2006/data-engineer-project/blob/master/src/extract_and_load.py#L31-L43)
+
+### Análise Exploratório - Jupyter - [Acesso aqui](https://github.com/dhiegoemmanuel2006/data-engineer-project/blob/master/exploratory/exploratory.ipynb)
+
+### Script de Transformaçã - [Acesso aqui](https://github.com/dhiegoemmanuel2006/data-engineer-project/blob/master/src/transform.py)
